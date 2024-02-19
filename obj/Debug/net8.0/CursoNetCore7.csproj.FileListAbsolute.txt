@@ -1,0 +1,15 @@
+/workspaces/CursoNetCore7/bin/Debug/net8.0/CursoNetCore7
+/workspaces/CursoNetCore7/bin/Debug/net8.0/CursoNetCore7.deps.json
+/workspaces/CursoNetCore7/bin/Debug/net8.0/CursoNetCore7.runtimeconfig.json
+/workspaces/CursoNetCore7/bin/Debug/net8.0/CursoNetCore7.dll
+/workspaces/CursoNetCore7/bin/Debug/net8.0/CursoNetCore7.pdb
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.AssemblyInfoInputs.cache
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.AssemblyInfo.cs
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.csproj.CoreCompileInputs.cache
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.sourcelink.json
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.dll
+/workspaces/CursoNetCore7/obj/Debug/net8.0/refint/CursoNetCore7.dll
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.pdb
+/workspaces/CursoNetCore7/obj/Debug/net8.0/CursoNetCore7.genruntimeconfig.cache
+/workspaces/CursoNetCore7/obj/Debug/net8.0/ref/CursoNetCore7.dll
